@@ -1,6 +1,6 @@
 #!groovy
 
-node {
+node('devops-02') {
   stage 'Checkout'
     checkout scm
   
