@@ -1,4 +1,5 @@
 #!/bin/bash
+
 [[ -e /etc/init/helloworld.conf ]] \
   && status helloworld | \
     grep -q '^helloworld start/running, process' \
