@@ -14,4 +14,3 @@ hooks:
       timeout: 30
   ValidateService:
     - location: scripts/validate.sh
-
