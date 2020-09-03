@@ -15,4 +15,3 @@ hooks:
   ValidateService:
     - location: scripts/validate.sh
 
-
